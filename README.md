@@ -37,6 +37,8 @@ A repository for the course material used in a Data plus project training at Duk
   - Geopandas, geoplot:
   - Illustrating grouping using the incentive of aggregating information 
   - Animation? Plotly
+![Log Confirmed Cases In China](imgs/logConfirmed.png)
+![Confirmed Cases In Hongkong and Shanghai](imgs/confirmedCases.png)
 
 - Session 5: Machine Learning
   - Big categories of Machine Learning: Supervised/Unsupervised/Semi-Supervised
