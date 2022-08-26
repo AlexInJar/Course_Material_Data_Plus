@@ -13,6 +13,7 @@ A repository for the course material used in a Data plus project training at Duk
   - Basics of Dataframe, And Dataframe statistics
   
   - Basic Plotting, Scatter Plot
+![Results of Restricted Square Chaos Game](imgs/square.png)
 
 - Session 2: Data Acquisition 
   - HTML CSS Javascript Basics; How browser renders web content?
